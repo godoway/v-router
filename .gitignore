@@ -1,0 +1,29 @@
+
+# IntelliJ project files
+.idea
+/out/
+
+# Ignore Gradle build output directory
+.gradle
+/build/
+/tmp/
+/output/
+
+# some eclipse ?
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+
+# Ignore some document
+*.xlsx
+*.docs
+
+# custom
+/config/
+/logs/
